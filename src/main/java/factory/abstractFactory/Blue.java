@@ -1,0 +1,10 @@
+package factory.abstractFactory;
+
+public class Blue implements Color {
+
+	@Override
+	public void fill() {
+		System.out.println("show Blue:fill method");
+	}
+
+}
