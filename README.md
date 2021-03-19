@@ -4,5 +4,5 @@
 
 # 策略模式
 
-![策略模式](\src\main\resources\images\image-20210312115035456.png)
-
+link:
+https://www.notion.so/12-5bcab76f9fe24deaa9824d9680a473aa

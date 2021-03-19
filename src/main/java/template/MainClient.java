@@ -15,15 +15,15 @@ public class MainClient {
         System.out.println("====================");
         model2.run();
 
-        this.me(a);
+//        this.me(a);
 
     }
-    @Test
+
     public void Test01(){
 
     }
-    public  void me(String c){
-        this.a = this.a+"c";
-        System.out.println(a);
-    }
+//    public  void me(String c){
+//        this.a = this.a+"c";
+//        System.out.println(a);
+//    }
 }
